@@ -32,4 +32,4 @@ This R script tidies up the Human Activity Recognition Using Smartphones Dataset
 
 ## Output
 
-The result of the script is a text file named "tidy_dataset.txt" in the working directory, containing the dataset with the mean of each variable by subject and activity
+The result of the script is a text file named "tidy_dataset.txt" in the working directory, containing the dataset with the mean of each variable by subject and activity.
