@@ -1,0 +1,22 @@
+The dataset showcases the application of smartphone technology in tracking human activities. It features processed data from built-in accelerometers and gyroscopes, presenting average measurements for each variable, subject, and activity combination.
+
+Variables:
+
+SubjectID
+
+Description: Identifier of the volunteer who performed the activity. 
+
+Values_´: 1 to 30.
+
+ActivityName
+
+Description: Activity performed by the subject.
+Values:
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
+
+Measurement Variables: The remaining variables capture the mean and standard deviation of various signals derived from smartphone sensors. 
